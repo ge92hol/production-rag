@@ -1,0 +1,14 @@
+langchain-core
+langchain-text-splitters
+langchain-openai
+langchain-google-genai
+langchain-chroma
+chromadb
+pymupdf4llm
+beautifulsoup4
+numpy
+python-dotenv
+pandas
+pyarrow
+rank-bm25
+sentence-transformers
